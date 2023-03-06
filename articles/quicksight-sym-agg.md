@@ -3,7 +3,7 @@ title: "LAC-A関数を用いてQuickSightで対象集計のようなものを行
 emoji: "🐙"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["QuickSight"]
-published: false
+published: true
 ---
 
 # 目標
